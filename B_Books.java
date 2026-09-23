@@ -1,11 +1,6 @@
-// Java Program to Illustrate books class
-// To Do all the Operations related to Books such as
-// add, check-in, check-out,Valid books,Update books
-
-// Importing required classes
 import java.util.Scanner;
 
-// CLass
+// Main CLass
 public class B_Books {
 
     // Class data members
