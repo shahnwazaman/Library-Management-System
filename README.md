@@ -17,3 +17,4 @@ MY mini-project will be split into five Java files and each will handle a specif
 This file will hold the detail about each book including their serial number, Book name, Author name, total quantity
 and available quantity and the constructor will asks the user to enter these details whenever a new book is added.
 ------------------------------------------------------------
+02. Books.java: Java Program to Illustrate books class to Do all the Operations related to Books such as add, check-in, check-out,Valid books,Update books
