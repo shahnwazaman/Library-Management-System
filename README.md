@@ -17,4 +17,12 @@ MY mini-project will be split into five Java files and each will handle a specif
 This file will hold the detail about each book including their serial number, Book name, Author name, total quantity
 and available quantity and the constructor will asks the user to enter these details whenever a new book is added.
 ------------------------------------------------------------
-02. Books.java: Java Program to Illustrate books class to Do all the Operations related to Books such as add, check-in, check-out,Valid books,Update books
+02. Books.java:
+Java Program to Illustrate books class to Do all the Operations related to Books such as add, check-in,
+check-out,Valid books,Update books
+--------------------------------------------------------------
+3. Student.java:
+This class represents a student in the library system. Each student has a name, registration number and each student can
+borrow upto 3 books at a time which are stored in an array and whenver a new student is added into the system, the program
+will asks for detials with the help of a constructor.
+-------------------------------------------------------------
