@@ -26,7 +26,7 @@ This class represents a student in the library system. Each student has a name, 
 borrow upto 3 books at a time which are stored in an array and whenver a new student is added into the system, the program
 will asks for detials with the help of a constructor.
 -------------------------------------------------------------
-4.students.java:
+4. students.java:
 This class will keep track of all the student registered in the library. It adds new students only when the registration number is unique. 
 We can see a list of registered students as well, before a student borrow or returned a book this class will always check that this
 particular student is registered in the system or not. It also handles the process of student borrowing and returning book.
